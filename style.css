@@ -35,6 +35,7 @@ nav{
     display: flex;
     align-items: center;
     gap: 16px;
+    color: #e5e7eb;
 }
 
 .nav-logo img, .footer-cephdev img{
@@ -50,6 +51,7 @@ nav{
 .nav-li a{
     padding: 0 16px;
     color: #e5e7eb;
+    font-size: 18px;
     /* text-decoration: none; */
 }
 
@@ -76,7 +78,7 @@ nav{
 .left-intro a{
     background-color: #3282f6;
     padding: 10px 27px;
-    border-radius: 10px;
+    border-radius: 7px;
     font-weight: 530;
 }
 
@@ -87,7 +89,7 @@ nav{
     background-position-y: 13%;
     background-size: cover;
     opacity: 90%;
-    margin-left: 50px;
+    margin-left: 70px;
     border-radius: 10px;
 }
 
