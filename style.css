@@ -91,6 +91,7 @@ nav{
     opacity: 90%;
     margin-left: 70px;
     border-radius: 10px;
+    flex-shrink: 0;
 }
 
 .rand-info{
@@ -100,6 +101,7 @@ nav{
     align-items: center;
     padding: 70px 150px 100px;
     gap: 54px;
+    background-color: #f9faf8;
 }
 
 .rand-info h2{
